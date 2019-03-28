@@ -1,0 +1,11 @@
+{
+  "name": "desafio_1",
+  "version": "1.0.0",
+  "description": "receber uma palavra e devolvê-la revertida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "douglas",
+  "license": "ISC"
+}
