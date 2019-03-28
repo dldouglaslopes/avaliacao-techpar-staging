@@ -1,0 +1,14 @@
+{
+  "name": "desafio_2",
+  "version": "1.0.0",
+  "description": "md5 da string informada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "douglas",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0"
+  }
+}
